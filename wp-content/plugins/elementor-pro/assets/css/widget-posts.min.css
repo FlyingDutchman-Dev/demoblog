@@ -33,7 +33,7 @@
 .elementor-posts--thumbnail-right .elementor-post__thumbnail__link {order: 5;margin-left: 20px;}
 .elementor-posts--thumbnail-none .elementor-posts-container .elementor-post__thumbnail__link {display: none;}
 .elementor-posts .elementor-post {display: flex;}
-.elementor-posts .elementor-post__card {display: flex;flex-direction: column;overflow: hidden;position: relative;background-color: #fff;width: 100%;min-height: 100%;border-radius: 3px;border: 0 solid #818a91;transition: all .25s;}
+.elementor-posts .elementor-post__card {display: flex;flex-direction: column;overflow: hidden;position: relative;background-color: #fff;width: 100%;border-radius: 3px;border: 0 solid #818a91;transition: all .25s;}
 .elementor-posts .elementor-post__card .elementor-post__thumbnail {position: relative;transform-style: preserve-3d;-webkit-transform-style: preserve-3d;}
 .elementor-posts .elementor-post__card .elementor-post__thumbnail img {width: calc(100% + 1px);}
 .elementor-posts .elementor-post__card .elementor-post__text {padding: 0 30px;margin-bottom: 0;margin-top: 20px;}
